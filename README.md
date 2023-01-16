@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/Lfelipe-Freitas">
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfelipe-Freitas&theme=react&line_height=40&hide=css"/> </a>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfelipe-Freitas&layout=compact&langs_count=7&theme=react" />
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfelipe-Freitas&theme=react&line_height=40&hide=css"/> </a>
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
