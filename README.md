@@ -26,4 +26,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lfelipe-Freitas&repo=Lfelipe-Freitas&theme=react)](https://github.com/Lfelipe-Freitas/Lfelipe-Freitas)
+[![readme](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfelipe-Freitas&theme=react&line_height=40&hide=css")
