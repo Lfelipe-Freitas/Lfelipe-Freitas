@@ -26,4 +26,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lfelipe-Freitas&theme=react&line_height=40&hide=css")
